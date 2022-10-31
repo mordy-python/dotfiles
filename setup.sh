@@ -1,3 +1,4 @@
+#!/bin/bash
 if [[ ! -f "JetBrainsMono-2.242.zip" ]]; then
     wget https://download.jetbrains.com/fonts/JetBrainsMono-2.242.zip
 fi
